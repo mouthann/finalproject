@@ -1,4 +1,4 @@
-import Styles from "./Navbar.module.css";
+
 
 import { Link } from "react-router-dom";
 import logo from "../../assets/images/freshcart-logo.svg"
